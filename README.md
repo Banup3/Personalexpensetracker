@@ -1,4 +1,4 @@
-# 💰 Personal Expense Tracker
+# Personal Expense Tracker
 
 A full-stack expense tracking application with a modern React UI and Flask REST API backend. Track your expenses, categorize them, and generate insightful reports.
 
