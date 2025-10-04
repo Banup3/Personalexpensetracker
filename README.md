@@ -132,25 +132,8 @@ POST /api/expenses
 - **Reports Modal** - View spending breakdown by category
 - **Responsive Design** - Works seamlessly on desktop and mobile
 
-## 📂 Project Structure
+README.md               # This file
 
-```
-expensetracker/
-├── backend/
-│   ├── app.py              # Flask API application
-│   ├── requirements.txt    # Python dependencies
-│   └── expenses.db         # SQLite database (auto-created)
-├── frontend/
-│   ├── public/
-│   │   └── index.html      # HTML template
-│   ├── src/
-│   │   ├── App.js          # Main React component
-│   │   ├── App.css         # Application styles
-│   │   ├── index.js        # React entry point
-│   │   └── index.css       # Global styles
-│   └── package.json        # Node dependencies
-└── README.md               # This file
-```
 
 ## 🔧 Configuration
 
@@ -213,12 +196,6 @@ Feel free to fork this project and submit pull requests for any improvements!
 
 This project is open source and available under the MIT License.
 
-## 🙏 Acknowledgments
 
-- Icons by [Lucide](https://lucide.dev/)
-- Gradient inspiration from [uiGradients](https://uigradients.com/)
-- Built with ❤️ using React and Flask
-
----
 
 **Happy Expense Tracking! 💰📊**
